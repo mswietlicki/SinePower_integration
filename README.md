@@ -51,7 +51,7 @@ Response:
 | Command | PARAMETER | Description | Example | Response |
 | --- | --- | --- | --- | --- |
 | QURY | 0 | Query inverter power source | QURY 0\r\n, 00\r\n=>\r\n | 00 - Normal, C2 - Grid power |
-| QURY | 1 | Query inverter load | QURY 1\r\n, 57\r\n=>\r\n | 2 digit load procentage |
+| QURY | 1 | Query inverter load | QURY 1\r\n, 57\r\n=>\r\n | 2 digit load percentage |
 | QURY | 2 | Unknow query | QURY 2\r\n, 00\r\n=>\r\n | 2 digits |
 | QURY | 4 | Unknow query | QURY 4\r\n, 00\r\n=>\r\n | 2 digits |
 | PWRS | 2 | Set power level to normal ? | PWRS 2\r\n | 0\r\n=>\r\n |
