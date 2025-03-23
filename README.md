@@ -1,4 +1,4 @@
-# SinePower_integration
+# SinePower Home Assistant integration
 I want to integrate Campervan Home Assistant setup with old Waeco MSI2312T 12V 2300W inverter.
 
 ## Description
